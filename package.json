@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:devices": "esbuild src/device-scene.mjs --bundle --format=esm --minify --outfile=device-scene.js"
+  },
+  "devDependencies": {
+    "esbuild": "0.25.10",
+    "three": "0.180.0"
+  },
+  "name": "novoluxor-website"
+}

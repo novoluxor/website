@@ -1,0 +1,186 @@
+{
+  "captured": "2026-10-10",
+  "notes": "Actual native app interfaces with fictional demonstration content. Selected LibraVia images come from the updated package. Supplied Mac web crops omit 104 pixels of capture chrome; no further UI alterations were made.",
+  "selected": [
+    {
+      "app": "velacanto",
+      "view": 0,
+      "platform": "iphone",
+      "source": "iphone-home.png",
+      "path": "/assets/screens/velacanto-iphone-home.png",
+      "sha256": "17dcdf267cfca84e52adaede228ce7cfc32b5808d0d8c3e6206aef12bef87476",
+      "dimensions": [
+        1206,
+        2622
+      ]
+    },
+    {
+      "app": "velacanto",
+      "view": 0,
+      "platform": "mac",
+      "source": "mac-home.jpg",
+      "path": "/assets/screens/velacanto-mac-home.jpg",
+      "sha256": "7bb5c591682ec929025583cbad15b8c48c850bc79aa933452ea84b8dc38497c2",
+      "dimensions": [
+        3024,
+        1898
+      ]
+    },
+    {
+      "app": "velacanto",
+      "view": 1,
+      "platform": "iphone",
+      "source": "iphone-now-playing.png",
+      "path": "/assets/screens/velacanto-iphone-now-playing.png",
+      "sha256": "60f5314ec2e1ce077eef3fa6780bd9950391221f56e083145f08bd9aae18750f",
+      "dimensions": [
+        1206,
+        2622
+      ]
+    },
+    {
+      "app": "velacanto",
+      "view": 1,
+      "platform": "mac",
+      "source": "mac-album.jpg",
+      "path": "/assets/screens/velacanto-mac-album.jpg",
+      "sha256": "e1aadbf9853436d4d52d2439a206eaf6295e57feb296d8880ff5d2a2c3255644",
+      "dimensions": [
+        3024,
+        1898
+      ]
+    },
+    {
+      "app": "velacanto",
+      "view": 2,
+      "platform": "iphone",
+      "source": "iphone-queue.png",
+      "path": "/assets/screens/velacanto-iphone-queue.png",
+      "sha256": "9c49adfdb68be034b1a49347d9a514f2d8793d883a4815f1f91c2b060a08a143",
+      "dimensions": [
+        1206,
+        2622
+      ]
+    },
+    {
+      "app": "velacanto",
+      "view": 2,
+      "platform": "mac",
+      "source": "mac-queue.jpg",
+      "path": "/assets/screens/velacanto-mac-queue.jpg",
+      "sha256": "07df8ec7f48636d03eb7c9107fd0376a4c972afd50e81dbb3ef40fdc4584e9fd",
+      "dimensions": [
+        3024,
+        1898
+      ]
+    },
+    {
+      "app": "libravia",
+      "view": 0,
+      "platform": "iphone",
+      "source": "demo-web/iphone-demo-01-home.png",
+      "path": "/assets/screens/libravia-iphone-demo-01-home.png",
+      "sha256": "e058f50b7b0b0e5784ce66f0ed46e4ac8507dc2adda0289c6aaa44eb27204004",
+      "dimensions": [
+        1206,
+        2622
+      ],
+      "supplied_crop_top_pixels": 0
+    },
+    {
+      "app": "libravia",
+      "view": 0,
+      "platform": "mac",
+      "source": "demo-web/mac-demo-01-home.png",
+      "path": "/assets/screens/libravia-mac-demo-01-home.png",
+      "sha256": "52e31d32400ea19e7633fe36aad23764a37db52fb44a05ab5fa04d1c31500d12",
+      "dimensions": [
+        2200,
+        1456
+      ],
+      "supplied_crop_top_pixels": 104
+    },
+    {
+      "app": "libravia",
+      "view": 1,
+      "platform": "iphone",
+      "source": "demo-web/iphone-demo-04-immersive-reading.png",
+      "path": "/assets/screens/libravia-iphone-demo-04-immersive-reading.png",
+      "sha256": "90174e082c2f1bb6fd6dce0a7c370d2ecbcdfcbdd9dd6c51dbcc546703e03fdc",
+      "dimensions": [
+        1206,
+        2622
+      ],
+      "supplied_crop_top_pixels": 0
+    },
+    {
+      "app": "libravia",
+      "view": 1,
+      "platform": "mac",
+      "source": "demo-web/mac-demo-05-immersive-reading.png",
+      "path": "/assets/screens/libravia-mac-demo-05-immersive-reading.png",
+      "sha256": "18e43321201f154e92fe51e90707d75834883293df5b06dbcf154775aeb5ac91",
+      "dimensions": [
+        2000,
+        1496
+      ],
+      "supplied_crop_top_pixels": 104
+    },
+    {
+      "app": "libravia",
+      "view": 2,
+      "platform": "iphone",
+      "source": "demo-web/iphone-demo-06-appearance.png",
+      "path": "/assets/screens/libravia-iphone-demo-06-appearance.png",
+      "sha256": "4e8d4198535a9249e758e4a04758f255f35353dad7e7dbc4221af80b59eb8c84",
+      "dimensions": [
+        1206,
+        2622
+      ],
+      "supplied_crop_top_pixels": 0
+    },
+    {
+      "app": "libravia",
+      "view": 2,
+      "platform": "mac",
+      "source": "demo-web/mac-demo-07-appearance.png",
+      "path": "/assets/screens/libravia-mac-demo-07-appearance.png",
+      "sha256": "0ab66f28d32eaca5fb8e537190b5a611397949cf1bfc0d1b4fce03d6ea877070",
+      "dimensions": [
+        2000,
+        1496
+      ],
+      "supplied_crop_top_pixels": 104
+    },
+    {
+      "app": "libravia",
+      "view": 3,
+      "platform": "iphone",
+      "source": "demo-web/iphone-demo-05-contents.png",
+      "path": "/assets/screens/libravia-iphone-demo-05-contents.png",
+      "sha256": "9c67fb00898a0744bfa79f284f6ee2bb900c0902c8cffc47cd90ab5bab0abd19",
+      "dimensions": [
+        1206,
+        2622
+      ],
+      "supplied_crop_top_pixels": 0
+    },
+    {
+      "app": "libravia",
+      "view": 3,
+      "platform": "mac",
+      "source": "demo-web/mac-demo-06-contents.png",
+      "path": "/assets/screens/libravia-mac-demo-06-contents.png",
+      "sha256": "d6e03b36905806e0972fee29cab7147e9ce2481fc7c4e0aaa52c6caa400a09d8",
+      "dimensions": [
+        2000,
+        1496
+      ],
+      "supplied_crop_top_pixels": 104
+    }
+  ],
+  "icons": {
+    "libravia": "Supplied native 256px LibraVia-AppIcon.png",
+    "velacanto": "Supplied native 256px VelaCanto.iconset/icon_128x128@2x.png"
+  }
+}

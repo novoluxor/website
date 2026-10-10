@@ -1,0 +1,58 @@
+{
+  "models": {
+    "iphone": {
+      "url": "/assets/models/iphone.glb",
+      "screenMesh": "xXDHkMplTIDAXLN"
+    },
+    "mac": {
+      "url": "/assets/models/macbook.glb",
+      "screenMesh": "Object_123"
+    }
+  },
+  "screens": {
+    "libravia": [
+      {
+        "background": {
+          "mac": "#ffffff"
+        },
+        "iphone": "/assets/screens/libravia-iphone-demo-01-home.png",
+        "mac": "/assets/screens/libravia-mac-demo-01-home.png"
+      },
+      {
+        "background": {
+          "mac": "#ffffff"
+        },
+        "iphone": "/assets/screens/libravia-iphone-demo-04-immersive-reading.png",
+        "mac": "/assets/screens/libravia-mac-demo-05-immersive-reading.png"
+      },
+      {
+        "background": {
+          "mac": "#ffffff"
+        },
+        "iphone": "/assets/screens/libravia-iphone-demo-06-appearance.png",
+        "mac": "/assets/screens/libravia-mac-demo-07-appearance.png"
+      },
+      {
+        "background": {
+          "mac": "#ffffff"
+        },
+        "iphone": "/assets/screens/libravia-iphone-demo-05-contents.png",
+        "mac": "/assets/screens/libravia-mac-demo-06-contents.png"
+      }
+    ],
+    "velacanto": [
+      {
+        "iphone": "/assets/screens/velacanto-iphone-home.png",
+        "mac": "/assets/screens/velacanto-mac-home.jpg"
+      },
+      {
+        "iphone": "/assets/screens/velacanto-iphone-now-playing.png",
+        "mac": "/assets/screens/velacanto-mac-album.jpg"
+      },
+      {
+        "iphone": "/assets/screens/velacanto-iphone-queue.png",
+        "mac": "/assets/screens/velacanto-mac-queue.jpg"
+      }
+    ]
+  }
+}

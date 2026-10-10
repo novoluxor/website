@@ -1,0 +1,13 @@
+3D device assets
+
+iPhone: Apple iPhone 15 Pro Max Black by polyman (Polyman_3D).
+https://sketchfab.com/3d-models/apple-iphone-15-pro-max-black-df17520841214c1792fb8a44c6783ee7
+
+Mac: macbook pro M3 16 inch 2024 by jackbaeten.
+https://sketchfab.com/3d-models/macbook-pro-m3-16-inch-2024-8e34fc2b303144f78490007d91ff57c4
+
+Both models: CC BY 4.0, https://creativecommons.org/licenses/by/4.0/
+Changes: bundled web-optimized copies; display textures replaced with actual LibraVia and VelaCanto app screenshots; scale and lighting adjusted for presentation.
+Screenshot textures: supplied LibraVia and VelaCanto app captures with demonstration content, presented by NovoLuxor. Screenshot paths are defined in assets/device-screens.json.
+Three.js: MIT, see vendor/THREE-LICENSE.txt.
+Draco: Apache 2.0, see vendor/draco/LICENSE.txt.
